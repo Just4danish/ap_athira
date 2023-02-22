@@ -1,11 +1,8 @@
-// const baseURL = __DEV__
-//   ? 'https://fogwatch.envirol.ae'
-//   // ? 'http://65.109.1.15:8000'
-//   :
-//   'https://fogwatch.envirol.ae';
-// 'https://envirol.abacitechs.com';
+const baseURL = __DEV__
+  ? 'http://65.109.1.15:8000'
+  : 'https://envirol.abacitechs.com';
 
-const baseURL = 'https://fogwatch.envirol.ae';
+// const baseURL = 'https://fogwatch.envirol.ae';
 // const baseURL = 'https://enviroldev.abacitechs.com:8000';
 // const baseURL = 'https://envirol.abacitechs.com';
 // 'https://fogwatch.envirol.ae'
